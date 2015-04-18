@@ -20,7 +20,7 @@ Kelihatan kacau? namun pada kenyataannya merupakan mesin (server) yang saling be
 
 ![Figure 1.2](images/internet_3.png)
 
-Menarik sekali bukan? Namun tidaklah mungkin menghubungkan dengan kabel setiap mesin yang terhubung dengan internet agar kita bisa mengaksesnya. Maka dari itu, untuk mencapai sebuah mesin (misalnya tempat http://djangogirls.org di simpan) kita harus melewati beberapa mesin-mesin berbeda sebelum bisa mengakses mesin tujuan.
+Menarik bukan? Namun tidaklah mungkin menghubungkan dengan kabel setiap mesin yang terhubung dengan internet agar kita bisa mengaksesnya. Maka dari itu, untuk mencapai sebuah mesin (misalnya tempat http://djangogirls.org di simpan) kita harus melewati beberapa mesin-mesin berbeda sebelum bisa mengakses mesin tujuan.
 
 Terlihat seperti ilustrasi di bawah ini:
 
