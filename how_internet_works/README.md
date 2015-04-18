@@ -16,13 +16,13 @@ Kami menggambarkanya buat anda! kira-kira seperti ini:
 
 ![Figure 1.1](images/internet_1.png)
 
-Looks like a mess, right? In fact it is a network of connected machines (the above mentioned *servers*). Hundreds of thousands of machines! Many, many kilometers of cables around the world! You can visit a Submarine Cable Map website (http://submarinecablemap.com/) to see how complicated the net is. Here is a screenshot from the website:
+Kelihatan kacau? namun pada kenyataannya merupakan mesin (server) yang saling berhubungan dan membentuk jaringan. Ratusan bahkan ribuan server! dihubungkan oleh ribuan bahkan jutaan kilometer kabel di seluruh dunia. Anda dapat mengunjungi situs Submarine Cable Map (http://submarinecablemap.com/) untuk melihat bagaimana kompleksnya jaringan itu. Berikut screenshot dari website tersebut:
 
 ![Figure 1.2](images/internet_3.png)
 
-It is fascinating, isn't it? But obviously, it is not possible to have a wire between every machine connected to the Internet. So, to reach a machine (for example the one where http://djangogirls.org is saved) we need to pass a request through many, many different machines.
+Menarik sekali bukan? Namun tidaklah mungkin menghubungkan dengan kabel setiap mesin yang terhubung dengan internet agar kita bisa mengaksesnya. Maka dari itu, untuk mencapai sebuah mesin (misalnya tempat http://djangogirls.org di simpan) kita harus melewati beberapa mesin-mesin berbeda sebelum bisa mengakses mesin tujuan.
 
-It looks like this:
+Terlihat seperti ilustrasi di bawah ini:
 
 ![Figure 1.3](images/internet_2.png)
 
